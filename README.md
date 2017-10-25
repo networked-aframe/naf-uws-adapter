@@ -5,7 +5,7 @@ Network adapter for [networked-aframe](https://github.com/haydenjameslee/network
 ## Running the Example
 
 ```
-git clone https://github.com/robertlong/naf-uws-adapter
+git clone https://github.com/networked-aframe/naf-uws-adapter
 cd naf-uws-adapter
 npm install # or use yarn
 npm run dev # Start the local development server
