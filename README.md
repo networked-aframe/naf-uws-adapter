@@ -1,6 +1,6 @@
 # Networked-AFrame µWS Adapter
 
-Network adapter for [networked-aframe](https://github.com/haydenjameslee/networked-aframe) that uses uws as a backend.
+Network adapter for [networked-aframe](https://github.com/networked-aframe/networked-aframe) that uses uws as a backend.
 
 ## Running the Example
 
@@ -12,6 +12,10 @@ npm run dev # Start the local development server
 ```
 
 With the server running, browse the example at http://localhost:8080. Open another browser tab and point it to the same URL to see the other client.
+
+### Running on Glitch.com
+
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/naf-uws-adapter)
 
 ### Running your own server
 
